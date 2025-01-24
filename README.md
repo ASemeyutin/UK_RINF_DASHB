@@ -9,3 +9,5 @@ Regional inflation computations can be replicated with uk_infl_reg.R file.
 *Please note that to replicate regional inflation, it is important to obtain raw files from the ONS first and then follow Gado and Schoenie guidlines on how to merge and clean ONS raw files (run their R scripts). Unfrotunately, their source code is only available through their website (link above) and I could not contribute(?) to it directly here on github.*
 
 # App Demo (Output)
+
+![](https://github.com/ASemeyutin/UK_RINF_DASHB/blob/main/app_demo.gif)
