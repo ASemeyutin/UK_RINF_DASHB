@@ -1,0 +1,11 @@
+shiny
+shinyswatch
+pathlib
+pandas
+geopandas
+datetime
+numpy
+matplotlib
+drawarrow
+pyfonts
+highlight_text
